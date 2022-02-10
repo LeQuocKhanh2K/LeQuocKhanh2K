@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/LeQuocKhanh2K">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="LQK">
+	<img src="https://cdn.dribbble.com/users/2208826/screenshots/6681451/_____.gif" width = "200" alt="LQK">
 	</a>
 </p>
 
@@ -17,7 +17,7 @@ namespace LQK
         {
             string Name = "Lê Quốc Khánh";
             string Age = "2000";
-            string Gender = "Male";
+            string Gender = "Nam";
             string Address = "Lâm Đồng, Việt Nam";
             string University = "Trường Đại học Công nghiệp thực phẩm TP.HCM - HUFI ";
             string Skills = "Network, SQL, Python";
@@ -95,5 +95,4 @@ namespace LQK
 <p>
 
 ##
-
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
