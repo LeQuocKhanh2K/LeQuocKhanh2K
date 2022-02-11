@@ -16,7 +16,7 @@ namespace LQK
         static void Main(string[] args)
         {
             string Name = "Lê Quốc Khánh";
-            string Age = "2000";
+            string BirthYear = "2000";
             string Gender = "Nam";
             string Address = "Lâm Đồng, Việt Nam";
             string University = "Trường Đại học Công nghiệp thực phẩm TP.HCM - HUFI ";
