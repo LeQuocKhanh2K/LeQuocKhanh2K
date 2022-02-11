@@ -59,15 +59,15 @@ namespace LQK
 	 </a>
       </td>
       <td width="20%" align="center">
-	 <a href="https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15">
-		<span>SQL</span><br><br><br>
-		<img height="64px" src="https://en-wiki.ikoula.com/images/5/55/Sqlserver.png">
+	 <a href="https://docs.python.org/3/">
+		<span>Python</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
 	 </a>
       </td>
       <td width="20%" align="center">
-	<a href="https://docs.python.org/3/">
-		<span>Python</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	<a href="https://vi.wikipedia.org/wiki/Linux">
+		<span>Linux</span><br><br><br>
+		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
 	 </a>
       </td>
 	<td width="20%" align="center">
@@ -77,9 +77,9 @@ namespace LQK
 		</a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+	      <a href="https://www.jetbrains.com/pycharm/">
+        <span>PyCharm</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
 	      </a>
       </td>
     </tr>
