@@ -19,7 +19,7 @@ namespace LQK
             string BirthYear = "2000";
             string Gender = "Nam";
             string Address = "Lâm Đồng, Việt Nam";
-            string University = "Trường Đại học Công nghiệp thực phẩm TP.HCM - HUFI ";
+            string University = "Trường Đại học Công Thương TP.HCM - HUIT (Trường Đại học Công nghiệp thực phẩm TP.HCM - HUFI)";
             string Skills = "Network, Linux, Python";
             string FamousQuotes = "Thành công là khi mình biết chọn hướng đi phù hợp với bản thân mình!";
         }
