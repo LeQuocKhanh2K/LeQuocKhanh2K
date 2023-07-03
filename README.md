@@ -94,5 +94,3 @@ namespace LQK
 <img src="https://github.com/LeQuocKhanh2K/LeQuocKhanh2K/assets/75305251/6922cb07-7a82-41d8-b782-535699a4ea73" height="300" width="500"&theme=react-dark&hide_border=true">
 <p>
 
-##
-/*<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>*/
