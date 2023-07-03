@@ -88,10 +88,10 @@ namespace LQK
 </table>
 
 
-## <p align="center">Hoạt Động Của Tôi 📈</p>
+## <p align="center"></p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=LeQuocKhanh2K&theme=react-dark&hide_border=true">
+<img src="https://toigingiuvedep.vn/wp-content/uploads/2022/04/hinh-anh-gif-dep.gif&theme=react-dark&hide_border=true">
 <p>
 
 ##
