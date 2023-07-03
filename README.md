@@ -91,7 +91,7 @@ namespace LQK
 ## <p align="center"></p>
 <br>
 <p align='center'>
-<img src="https://toigingiuvedep.vn/wp-content/uploads/2022/04/hinh-anh-gif-dep.gif" height="300" width="500"&theme=react-dark&hide_border=true">
+<img src="https://github.com/LeQuocKhanh2K/LeQuocKhanh2K/assets/75305251/6922cb07-7a82-41d8-b782-535699a4ea73" height="300" width="500"&theme=react-dark&hide_border=true">
 <p>
 
 ##
