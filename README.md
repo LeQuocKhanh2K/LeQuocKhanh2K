@@ -6,7 +6,7 @@
 	</a>
 </p>
 
-<h2 align="center">Thông Tin Về Tôi 😁</h2>
+<h2 align="center">Thông Tin Về Tôi ☘ </h2>
 
 ```C#
 namespace LQK
